@@ -1,3 +1,7 @@
+Hadoop-cluster in 172
+
+First created in 2016.8.18
+
 For the latest information about Hadoop, please visit our website at:
 
    http://hadoop.apache.org/core/
